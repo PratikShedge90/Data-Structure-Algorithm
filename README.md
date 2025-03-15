@@ -1,1 +1,1 @@
-These are All the Basic Logical Programs !!
+<b> These are All the Basic Logical Programs !!
